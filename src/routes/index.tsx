@@ -442,7 +442,7 @@ function TinkerScene() {
       <Object src={laptop} alt="a laptop showing a list of jobs" label="most of the building happens here." style={at(106, 19)} size="sm" delay="0s" />
       <Object src={clapper} alt="a film clapperboard" label="i like films." style={at(104, 60)} size="sm" delay=".6s" />
       <Object src={gift} alt="a gift box with a QR card" label="i made a site for sending gifts. it's called memora." style={at(124, 68)} size="sm" delay="1.2s" />
-      <Object src={capsules} alt="two capsules and a tablet" label="five years of these." style={at(136, 18)} size="sm" delay=".3s" />
+      <Object src={capsules} alt="two capsules and a tablet" label="six years of these." style={at(136, 18)} size="sm" delay=".3s" />
       <Object src={clipboard} alt="a clipboard with a checklist" label="case reports. a lot of case reports." style={at(150, 68)} size="sm" delay="1.5s" />
       <Climber />
     </div>
@@ -1045,7 +1045,7 @@ function MobileStory({ ready, onWork }: { ready: boolean; onWork: () => void }) 
       <div className="relative h-[1500px]">
         <span data-say="a few things at once. i know." className="absolute left-0 top-0 h-px w-px" />
         <MobileObject src={laptop} alt="a laptop showing a list of jobs" label="most of the building happens here." style={{ left: "3%", top: 20 }} delay="0s" />
-        <MobileObject src={capsules} alt="two capsules and a tablet" label="five years of these." style={{ right: "5%", top: 190 }} delay=".4s" />
+        <MobileObject src={capsules} alt="two capsules and a tablet" label="six years of these." style={{ right: "5%", top: 190 }} delay=".4s" />
         <Anchor x="95%" y={400} />
         <div className="reveal absolute inset-x-0 top-[420px] mx-auto max-w-[17rem] text-center">
           <p className="text-muted-foreground">i'm a pharmacy student.</p>
