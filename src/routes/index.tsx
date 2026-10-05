@@ -26,7 +26,7 @@ export const Route = createFileRoute("/")({
     ...pageMeta({
       title: "Humphrey — pharmacy student and co-founder of Naralt",
       description:
-        "Humphrey is a fifth-year pharmacy student at the University of Benin and co-founder of Naralt, a job-tracking tool for small service businesses in Nigeria. He also built Memora and TEND.ng.",
+        "Humphrey is a final-year pharmacy student at the University of Benin and co-founder of Naralt, a job-tracking tool for small service businesses in Nigeria. He also built Memora and TEND.ng.",
       path: "/",
     }),
     scripts: [
@@ -565,7 +565,7 @@ function Climber() {
 }
 
 const heart = [
-  { src: mortar, alt: "a mortar and pestle", x: 200, y: 56, title: "pharmacy came first.", body: "fifth year at the university of benin. most of it is learning to be careful.", label: "check, then check again." },
+  { src: mortar, alt: "a mortar and pestle", x: 200, y: 56, title: "pharmacy came first.", body: "final year at the university of benin. most of it is learning to be careful.", label: "check, then check again." },
   { src: spool, alt: "a spool of blue thread with a needle", x: 224, y: 22, title: "then, small businesses.", body: "tailors, dry cleaners, cobblers. most still run on paper and memory.", label: "thread. you may have noticed." },
   { src: mic, alt: "a studio microphone", x: 252, y: 22, title: "i like explaining things.", body: "i mentor younger students, and i'm learning to speak better.", label: "practice, mostly." },
 ];
