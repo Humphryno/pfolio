@@ -9,7 +9,7 @@ export const OG_IMAGE = `${SITE_URL}/og.png`;
 
 export const NAME = "Humphrey";
 export const ABOUT_SHORT =
-  "Humphrey is a fifth-year pharmacy student at the University of Benin and co-founder of Naralt, a job-tracking tool for small service businesses in Nigeria.";
+  "Humphrey is a final-year pharmacy student at the University of Benin and co-founder of Naralt, a job-tracking tool for small service businesses in Nigeria.";
 
 export const PROFILES = ["https://www.instagram.com/humphryno_", "https://www.tiktok.com/@humphryno", "https://naralt.com"];
 
